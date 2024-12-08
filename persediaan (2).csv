@@ -1,0 +1,21 @@
+id_persediaan,id_produk,jumlah_stok,lokasi_gudang,tanggal_update
+1,1,100,Gudang A,2023-06-01
+2,2,98,Gudang B,2023-06-08
+3,3,96,Gudang C,2023-06-15
+4,4,94,Gudang A,2023-06-22
+5,5,92,Gudang B,2023-06-29
+6,6,90,Gudang C,2023-07-06
+7,7,88,Gudang A,2023-07-13
+8,8,86,Gudang B,2023-07-20
+9,9,84,Gudang C,2023-07-27
+10,10,82,Gudang A,2023-08-03
+11,11,80,Gudang B,2023-08-10
+12,12,78,Gudang C,2023-08-17
+13,13,76,Gudang A,2023-08-24
+14,14,74,Gudang B,2023-08-31
+15,15,72,Gudang C,2023-09-07
+16,16,70,Gudang A,2023-09-14
+17,17,68,Gudang B,2023-09-21
+18,18,66,Gudang C,2023-09-28
+19,19,64,Gudang A,2023-10-05
+20,20,62,Gudang B,2023-10-12
